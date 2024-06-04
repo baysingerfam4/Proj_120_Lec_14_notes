@@ -4,6 +4,11 @@ namespace Proj_120_Lec_14_notes
 {
     internal class Program
     {
+        //Carla Baysinger
+        //June 4th 2024
+        // Lecture 14 Matrices
+
+
         public static Movie[] movies = new Movie[3];
         //2d Array - Matrix
         // 1 2 3 4 5
